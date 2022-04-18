@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Desenvolvimento de Sistemas Na Etec João Belarmino
 - 📫 Contate-me no email: ezequielcostaa015@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: uga/uga
 
 <div align="center">
   <a href="https://github.com/Elecktry">
