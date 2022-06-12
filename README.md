@@ -3,7 +3,6 @@
 - 🌱 Estudando Desenvolvimento de Sistemas Na Etec João Belarmino
 - 📫 Contate-me no email: ezequielcostaa015@gmail.com
 - 😄 Pronouns: ele/dele
-- PastorelliJulia ❤
 <div align="center">
   <a href="https://github.com/Elecktry">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elecktry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
