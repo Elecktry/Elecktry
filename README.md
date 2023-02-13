@@ -1,6 +1,6 @@
 ###  Olá! Eu sou Ezequiel Costa 
 
-- 🌱 Estudando Desenvolvimento de Sistemas Na Etec João Belarmino
+- 🌱 Formado em Desenvolvimento de Sistemas Na Etec João Belarmino
 - 📫 Contate-me no email: ezequielcostaa015@gmail.com
 - 😄 Pronouns: ele/dele
 <div align="center">
